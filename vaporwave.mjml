@@ -1,0 +1,86 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+      .link-nostyle {
+        color: inherit;
+        text-decoration: none
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="0">
+      <mj-column vertical-align="middle">
+        <mj-image width="170px" src="https://femrico.com/wp-content/uploads/2019/06/logo-dark.png" href="https://www.etsy.com/shop/femrico/?section_id=28059034&utm_source=newsletter&utm_medium=email&utm_keyword=logo" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" padding-bottom="30px">
+      <mj-column vertical-align="middle">
+        <mj-text align="center" font-size="18px" font-family="Helvetica Arial" line-height="170%" color="black">
+          <a href="https://www.etsy.com/shop/femrico/?section_id=28059034&utm_source=newsletter&utm_medium=email&utm_keyword=shop" class="link-nostyle">Shop</a> &nbsp; &nbsp;| &nbsp; &nbsp; <a href="https://femrico.com/blog/" class="link-nostyle">Blog</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0px">
+      <mj-column>
+        <mj-text align="left" font-size="20px" font-family="Helvetica Arial" line-height="170%">
+          Hello,
+        </mj-text>
+        <mj-text align="left" font-family="Helvetica Arial" font-size="20px" line-height="170%">
+          Thank you for all your support!
+        </mj-text>
+        <mj-text align="left" font-family="Helvetica Arial" font-size="20px" line-height="170%">
+          I am very excited to introduce a new product line to you. These products are inspired from the vaporwave aesthetic and dedicated to their community.
+        </mj-text>
+        <mj-text align="left" font-family="Helvetica Arial" font-size="20px" line-height="170%">
+          A few weeks back my friend and I were talking about lo-fi style music where he mentioned vaporwave. This was totally new to me, but once I saw the art it really came to me as something different and creative. Inspired from those art pieces I present you my <a href="https://www.etsy.com/shop/femrico/?section_id=28059034&utm_source=newsletter&utm_medium=email&utm_keyword=link" style="color:#333">new designs.</a>
+        </mj-text>
+        <mj-button align="left" font-size="22px" href="https://www.etsy.com/shop/femrico/?section_id=28059034&utm_source=newsletter&utm_medium=email&utm_keyword=button1">View Cases</mj-button>
+        <mj-image src="https://i.etsystatic.com/isa/8d9b23/735763885978/isa_760xN.735763885978_r7ms.jpg" href="https://www.etsy.com/shop/femrico/?section_id=28059034&utm_source=newsletter&utm_medium=email&utm_keyword=image1" padding="0px" padding-bottom="10px" padding-top="50px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image src="https://i.etsystatic.com/21621816/r/il/78d99f/2221933851/il_fullxfull.2221933851_27pu.jpg" href="https://www.etsy.com/shop/femrico/?section_id=28059034&utm_source=newsletter&utm_medium=email&utm_keyword=image2" padding="0px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.etsystatic.com/21621816/r/il/ba1d8e/2184270618/il_fullxfull.2184270618_9c28.jpg" href="https://www.etsy.com/shop/femrico/?section_id=28059034&utm_source=newsletter&utm_medium=email&utm_keyword=image3" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="left" font-family="Helvetica Arial" font-size="20px" line-height="170%">
+          See all the designs for your phone. They are available for all iPhone and Galaxy models.
+        </mj-text>
+
+        <mj-text align="left" font-family="Helvetica Arial" font-size="20px" line-height="170%">
+          And for limited time use CODE: <strong>F89DVE</strong> to get an extra 10% OFF (valid till 02/29/2020)
+        </mj-text>
+        <mj-button align="left" font-size="22px" href="https://www.etsy.com/shop/femrico/?section_id=28059034&utm_source=newsletter&utm_medium=email&utm_keyword=button2">View Cases</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="left" font-family="Helvetica Arial" font-size="20px" line-height="170%">
+          Best,</br>
+          Femrico
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-social>
+          <mj-social-element href="https://www.facebook.com/femrico.cases/" name="facebook" background-color="#333" icon-size="30px"></mj-social-element>
+          <mj-social-element href="https://www.pinterest.com/femrico/" name="pinterest" background-color="#333" icon-size="30px"></mj-social-element>
+          <mj-social-element href="https://www.instagram.com/femrico_cases/" name="instagram" background-color="#333" icon-size="30px"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text align="center">
+          <a href="<%asm_group_unsubscribe_raw_url%>">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
