@@ -185,7 +185,7 @@
     <mj-section>
       <mj-column>
         <mj-text align="center">
-          <a href="[unsubscribe]">Unsubscribe</a>
+          <a href="<%asm_group_unsubscribe_raw_url%>">Unsubscribe</a>
         </mj-text>
       </mj-column>
     </mj-section>
