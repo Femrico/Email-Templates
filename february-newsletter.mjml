@@ -15,7 +15,7 @@
         </mj-column>
         <mj-column vertical-align="middle">
           <mj-navbar align="right">
-            <mj-navbar-link href="https://www.etsy.com/shop/Femrico?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop&utm_content=menu-link" font-size="16px">
+            <mj-navbar-link href="https://femrico.com/category/cases/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop&utm_content=menu-link" font-size="16px">
               SHOP
             </mj-navbar-link>
             <mj-navbar-link href="https://femrico.com/blog/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Blog&utm_content=menu-link" font-size="16px">
@@ -25,7 +25,7 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section background-color="#fcc9c8" padding="0px" direction="rtl">
+    <mj-section background-color="#efc7c7" padding="0px" direction="rtl">
       <mj-column>
         <mj-image src="https://i.etsystatic.com/21621816/c/2001/1591/402/68/il/ba1d8e/2184270618/il_700x700.2184270618_9c28.jpg" padding="0" />
       </mj-column>
@@ -36,7 +36,7 @@
         <mj-text padding="0px 0px 30px" font-size="18px" color="#fff" line-height="27px">
           Save on best cases for your phone and more
         </mj-text>
-        <mj-button align="left" padding="0px" background-color="#fcc9c8" border="2px solid #fff" border-radius="0px" href="https://www.etsy.com/shop/Femrico?listing_id=755720634&section_id=28059034&utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Now&utm_content=banner-cta-button" font-size="14px" inner-padding="8px 20px" font-weight="500">
+        <mj-button align="left" padding="0px" background-color="#efc7c7" border="2px solid #fff" border-radius="0px" href="https://femrico.com/category/cases/?listing_id=755720634&section_id=28059034&utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Now&utm_content=banner-cta-button" font-size="14px" inner-padding="8px 20px" font-weight="500">
           SHOP NOW
         </mj-button>
       </mj-column>
@@ -49,7 +49,7 @@
       </mj-column>
       <mj-column vertical-align="middle" width="100%" padding="0px">
         <mj-navbar align="left">
-          <mj-navbar-link font-size="16px" padding="0px" href="https://www.etsy.com/shop/Femrico?listing_id=755720634&section_id=28059034&utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=See%20All&utm_content=limited-time-button">
+          <mj-navbar-link font-size="16px" padding="0px" href="https://femrico.com/category/cases/?listing_id=755720634&section_id=28059034&utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=See%20All&utm_content=limited-time-button">
             See All
           </mj-navbar-link>
         </mj-navbar>
@@ -57,14 +57,14 @@
     </mj-section>
     <mj-section padding="0px">
       <mj-column padding="10px 0px 30px">
-        <mj-image src="https://i.etsystatic.com/21621816/r/il/a50eca/2184199500/il_500x500.2184199500_jx9c.jpg" href="https://www.etsy.com/listing/757508002/iphone-xr-clear-case-greek-statue-phone?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=iphone-cross-image" />
+        <mj-image src="https://i.etsystatic.com/21621816/r/il/a50eca/2184199500/il_500x500.2184199500_jx9c.jpg" href="https://femrico.com/shop/iphone-cross-greek-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=iphone-cross-image" />
         <mj-text font-size="18px" line-height="27px" color="#777">
-          <a href="https://www.etsy.com/listing/757508002/iphone-xr-clear-case-greek-statue-phone?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=iPhone%20Cross%20Green%20Statue%20Case&utm_content=iphone-cross-title" class="link-nostyle">
+          <a href="https://femrico.com/shop/iphone-cross-greek-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=iPhone%20Cross%20Green%20Statue%20Case&utm_content=iphone-cross-title" class="link-nostyle">
             iPhone Cross Greek Staute Case
           </a>
         </mj-text>
         <mj-text font-size="24px" padding="0px 24px" font-weight="600">
-          <a href="https://www.etsy.com/listing/757508002/iphone-xr-clear-case-greek-statue-phone?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=16&utm_content=iphone-cross-price" class="link-nostyle">
+          <a href="https://femrico.com/shop/iphone-cross-greek-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=16&utm_content=iphone-cross-price" class="link-nostyle">
             $16.65
           </a>
         </mj-text>
@@ -72,17 +72,17 @@
           <s>$18.50</s> &nbsp;· &nbsp;
           <span style="color:red">FEATURED</span>
         </mj-text>
-        <mj-button align="left" font-size="22px" href="https://www.etsy.com/listing/757508002/iphone-xr-clear-case-greek-statue-phone?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Case%20Featured&utm_content=iphone-cross-button">Shop Case</mj-button>
+        <mj-button align="left" font-size="22px" href="https://femrico.com/shop/iphone-cross-greek-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Case%20Featured&utm_content=iphone-cross-button">Shop Case</mj-button>
       </mj-column>
       <mj-column padding="10px 0px 30px">
-        <mj-image src="https://i.etsystatic.com/21621816/r/il/419c0d/2231764177/il_500x500.2231764177_2iuf.jpg" href="https://www.etsy.com/listing/777477161/galaxy-s10-case-clear-phone-case-galaxy?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=galaxy-cross-image" />
+        <mj-image src="https://i.etsystatic.com/21621816/r/il/419c0d/2231764177/il_500x500.2231764177_2iuf.jpg" href="https://femrico.com/shop/samsung-galaxy-cross-greek-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=galaxy-cross-image" />
         <mj-text font-size="18px" line-height="27px" color="#777">
-          <a href="https://www.etsy.com/listing/777477161/galaxy-s10-case-clear-phone-case-galaxy?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Galaxy%20Cross%20Greek%20Statue%20Case&utm_content=galaxy-cross-title" class="link-nostyle">
+          <a href="https://femrico.com/shop/samsung-galaxy-cross-greek-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Galaxy%20Cross%20Greek%20Statue%20Case&utm_content=galaxy-cross-title" class="link-nostyle">
             Galaxy Cross Greek Statue Case
           </a>
         </mj-text>
         <mj-text font-size="24px" padding="0px 24px" font-weight="600">
-          <a href="https://www.etsy.com/listing/777477161/galaxy-s10-case-clear-phone-case-galaxy?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=16&utm_content=galaxy-cross-price" class="link-nostyle">
+          <a href="https://femrico.com/shop/samsung-galaxy-cross-greek-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=16&utm_content=galaxy-cross-price" class="link-nostyle">
             $16.65
           </a>
         </mj-text>
@@ -90,87 +90,87 @@
           <s>$18.50</s> &nbsp;· &nbsp;
           <span style="color:red">FEATURED</span>
         </mj-text>
-        <mj-button align="left" font-size="22px" href="https://www.etsy.com/listing/777477161/galaxy-s10-case-clear-phone-case-galaxy?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Case%20Featured&utm_content=galaxy-cross-button">Shop Case</mj-button>
+        <mj-button align="left" font-size="22px" href="https://femrico.com/shop/samsung-galaxy-cross-greek-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Case%20Featured&utm_content=galaxy-cross-button">Shop Case</mj-button>
       </mj-column>
     </mj-section>
 
     <mj-section padding-top="0px">
       <mj-column>
-        <mj-image src="https://i.etsystatic.com/isbl/c0af55/39704803/isbl_1100x420.39704803_dmpsf2rh.jpg?version=0" href="https://www.etsy.com/shop/Femrico?listing_id=755720634&section_id=28059034&utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=all-stickers-image" padding="0px" padding-bottom="10px" padding-top="50px"></mj-image>
+        <mj-image src="https://i.etsystatic.com/isbl/c0af55/39704803/isbl_1100x420.39704803_dmpsf2rh.jpg?version=0" href="https://femrico.com/category/cases/?listing_id=755720634&section_id=28059034&utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=all-stickers-image" padding="0px" padding-bottom="10px" padding-top="50px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0px">
       <mj-column padding="10px 0px 30px">
-        <mj-image src="https://i.etsystatic.com/21621816/r/il/b3d93c/2149169168/il_500x500.2149169168_ar9o.jpg" href="https://www.etsy.com/listing/755603744/iphone-xr-clear-case-greek-statue-phone?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=iphone-greek-image" />
+        <mj-image src="https://i.etsystatic.com/21621816/r/il/b3d93c/2149169168/il_500x500.2149169168_ar9o.jpg" href="https://femrico.com/shop/iphone-greek-statue-phone-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=iphone-greek-image" />
         <mj-text font-size="18px" line-height="27px" color="#777">
-          <a href="https://www.etsy.com/listing/755603744/iphone-xr-clear-case-greek-statue-phone?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=iPhone%20Greek%20Triangle%20Case&utm_content=iphone-greek-title" class="link-nostyle">
+          <a href="https://femrico.com/shop/iphone-greek-statue-phone-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=iPhone%20Greek%20Triangle%20Case&utm_content=iphone-greek-title" class="link-nostyle">
             iPhone Greek Triangle Case
           </a>
         </mj-text>
         <mj-text font-size="24px" padding="0px 24px" font-weight="600">
-          <a href="https://www.etsy.com/listing/755603744/iphone-xr-clear-case-greek-statue-phone?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=16&utm_content=iphone-greek-price" class="link-nostyle">
+          <a href="https://femrico.com/shop/iphone-greek-statue-phone-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=16&utm_content=iphone-greek-price" class="link-nostyle">
             $16.65
           </a>
         </mj-text>
         <mj-text font-size="16px" color="#777">
           <s>$18.50</s>
         </mj-text>
-        <mj-button align="left" font-size="22px" href="https://www.etsy.com/listing/755603744/iphone-xr-clear-case-greek-statue-phone?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Case&utm_content=iphone-greek-button">Shop Case</mj-button>
+        <mj-button align="left" font-size="22px" href="https://femrico.com/shop/iphone-greek-statue-phone-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Case&utm_content=iphone-greek-button">Shop Case</mj-button>
       </mj-column>
       <mj-column padding="10px 0px 30px">
         </mj-text>
-        <mj-image src="https://i.etsystatic.com/21621816/r/il/844559/2149201214/il_500x500.2149201214_rxv8.jpg" href="https://www.etsy.com/listing/755722594/galaxy-s10-case-clear-phone-case-galaxy?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=galaxy-greek-image" />
+        <mj-image src="https://i.etsystatic.com/21621816/r/il/844559/2149201214/il_500x500.2149201214_rxv8.jpg" href="https://femrico.com/shop/samsung-galaxy-greek-statue-phone-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=galaxy-greek-image" />
         <mj-text font-size="18px" line-height="27px" color="#777">
-          <a href="https://www.etsy.com/listing/755722594/galaxy-s10-case-clear-phone-case-galaxy?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Galaxy%20Greek%20Triangle%20Case&utm_content=galaxy-greek-title" class="link-nostyle">
+          <a href="https://femrico.com/shop/samsung-galaxy-greek-statue-phone-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Galaxy%20Greek%20Triangle%20Case&utm_content=galaxy-greek-title" class="link-nostyle">
             Galaxy Greek Triangle Case
           </a>
         </mj-text>
         <mj-text font-size="24px" padding="0px 24px" font-weight="600">
-          <a href="https://www.etsy.com/listing/755722594/galaxy-s10-case-clear-phone-case-galaxy?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=16&utm_content=galaxy-greek-price" class="link-nostyle">
+          <a href="https://femrico.com/shop/samsung-galaxy-greek-statue-phone-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=16&utm_content=galaxy-greek-price" class="link-nostyle">
             $16.65
           </a>
         </mj-text>
         <mj-text font-size="16px" color="#777">
           <s>$18.50</s>
         </mj-text>
-        <mj-button align="left" font-size="22px" href="https://www.etsy.com/listing/755722594/galaxy-s10-case-clear-phone-case-galaxy?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Case&utm_content=galaxy-greek-button">Shop Case</mj-button>
+        <mj-button align="left" font-size="22px" href="https://femrico.com/shop/samsung-galaxy-greek-statue-phone-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Case&utm_content=galaxy-greek-button">Shop Case</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="0px">
       <mj-column padding="10px 0px 30px">
-        <mj-image src="https://i.etsystatic.com/21621816/r/il/ecdeb9/2149157284/il_500x500.2149157284_9d7b.jpg" href="https://www.etsy.com/listing/769495421/iphone-xr-case-clear-statue-of-liberty?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=iphone-liberty-image" />
+        <mj-image src="https://i.etsystatic.com/21621816/r/il/ecdeb9/2149157284/il_500x500.2149157284_9d7b.jpg" href="https://femrico.com/shop/iphone-liberty-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=iphone-liberty-image" />
         <mj-text font-size="18px" line-height="27px" color="#777">
-          <a href="https://www.etsy.com/listing/769495421/iphone-xr-case-clear-statue-of-liberty?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=iPhone%20Liberty%20Statue%20Case&utm_content=iphone-liberty-title" class="link-nostyle">
+          <a href="https://femrico.com/shop/iphone-liberty-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=iPhone%20Liberty%20Statue%20Case&utm_content=iphone-liberty-title" class="link-nostyle">
             iPhone Liberty Statue Case
           </a>
         </mj-text>
         <mj-text font-size="24px" padding="0px 24px" font-weight="600">
-          <a href="https://www.etsy.com/listing/769495421/iphone-xr-case-clear-statue-of-liberty?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=16&utm_content=iphone-liberty-price" class="link-nostyle">
+          <a href="https://femrico.com/shop/iphone-liberty-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=16&utm_content=iphone-liberty-price" class="link-nostyle">
             $16.65
           </a>
         </mj-text>
         <mj-text font-size="16px" color="#777">
           <s>$18.50</s>
         </mj-text>
-        <mj-button align="left" font-size="22px" href="https://www.etsy.com/listing/769495421/iphone-xr-case-clear-statue-of-liberty?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Now&utm_content=iphone-liberty-button">Shop Case</mj-button>
+        <mj-button align="left" font-size="22px" href="https://femrico.com/shop/iphone-liberty-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Now&utm_content=iphone-liberty-button">Shop Case</mj-button>
       </mj-column>
       <mj-column padding="10px 0px 30px">
         </mj-text>
-        <mj-image src="https://i.etsystatic.com/21621816/r/il/0d50df/2149174526/il_500x500.2149174526_99jw.jpg" href="https://www.etsy.com/listing/755720634/galaxy-s10-case-clear-phone-case-galaxy?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=galaxy-liberty-image" />
+        <mj-image src="https://i.etsystatic.com/21621816/r/il/0d50df/2149174526/il_500x500.2149174526_99jw.jpg" href="https://femrico.com/shop/samsung-galaxy-liberty-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Image&utm_content=galaxy-liberty-image" />
         <mj-text font-size="18px" line-height="27px" color="#777">
-          <a href="https://www.etsy.com/listing/755720634/galaxy-s10-case-clear-phone-case-galaxy?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Galaxy%20Liberty%20Statue%20Case&utm_content=galaxy-liberty-title" class="link-nostyle">
+          <a href="https://femrico.com/shop/samsung-galaxy-liberty-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Galaxy%20Liberty%20Statue%20Case&utm_content=galaxy-liberty-title" class="link-nostyle">
             Galaxy Liberty Statue Case
           </a>
         </mj-text>
         <mj-text font-size="24px" padding="0px 24px" font-weight="600">
-          <a href="https://www.etsy.com/listing/755720634/galaxy-s10-case-clear-phone-case-galaxy?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=16&utm_content=galaxy-liberty-price" class="link-nostyle">
+          <a href="https://femrico.com/shop/samsung-galaxy-liberty-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=16&utm_content=galaxy-liberty-price" class="link-nostyle">
             $16.65
           </a>
         </mj-text>
         <mj-text font-size="16px" color="#777">
           <s>$18.50</s>
         </mj-text>
-        <mj-button align="left" font-size="22px" href="https://www.etsy.com/listing/755720634/galaxy-s10-case-clear-phone-case-galaxy?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Case&utm_content=galaxy-liberty-button">Shop Case</mj-button>
+        <mj-button align="left" font-size="22px" href="https://femrico.com/shop/samsung-galaxy-liberty-statue-case/?utm_source=newsletter&utm_medium=email&utm_campaign=feb-sale&utm_term=Shop%20Case&utm_content=galaxy-liberty-button">Shop Case</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
