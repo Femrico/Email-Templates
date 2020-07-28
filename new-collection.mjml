@@ -1,0 +1,124 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+      .link-nostyle {
+        color: inherit;
+        text-decoration: none
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#fff" width="500px">
+    <mj-section padding="15px 25px">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image width="120px" padding="0px" align="left" src="https://femrico.com/wp-content/uploads/2020/02/Untitled-1.jpg" href="https://femrico.com/shop/?utm_source=newsletter&utm_medium=email&utm_campaign=july-sale&utm_term=Image&utm_content=logo" />
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-navbar align="right">
+            <mj-navbar-link href="https://femrico.com/shop/?utm_source=newsletter&utm_medium=email&utm_campaign=july-sale&utm_term=Shop&utm_content=menu-link" font-size="16px">
+              <strong>SHOP</strong>
+            </mj-navbar-link>
+            <mj-navbar-link href="https://femrico.com/blog/?utm_source=newsletter&utm_medium=email&utm_campaign=july-sale&utm_term=Blog&utm_content=menu-link" font-size="16px">
+              <strong>BLOG</strong>
+            </mj-navbar-link>
+          </mj-navbar>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="15px" direction="rtl">
+			<mj-column background-color="#2e1a35" padding="20px 20px 40px" border-radius="10px">
+				<mj-image src="http://cdn.mcauto-images-production.sendgrid.net/b9b2f6577cdfd9db/74f625cb-b4fe-41bd-9980-b1957ad5a2f7/1000x1000.png" align="center" width="300px" padding="0" href="https://femrico.com/iphone-purple-glitter-case/?utm_source=newsletter&utm_medium=email&utm_campaign=july-sale&utm_term=Image&utm_content=purple-glitter" />
+				<mj-spacer height="20px" />
+				<mj-text color="#fff" padding="0px 0px 8px" font-size="28px" line-height="42px">
+					<strong>15% OFF NEW COLLECTION</strong>
+				</mj-text>
+				<mj-text padding="0px 0px 24px" font-size="16px" color="#fff" line-height="27px">
+					All new Glitter iPhone case with a soft shock-absorbing 
+					outer shell that protects phones against scratches, dust
+					and drops.
+				</mj-text>
+				<mj-button align="left" padding="0px" background-color="#DD6868" border="2px solid #DD6868" border-radius="5px" href="https://femrico.com/iphone-purple-glitter-case/?utm_source=newsletter&utm_medium=email&utm_campaign=july-sale&utm_term=Shop%20Now&utm_content=banner-cta-button" font-size="14px" inner-padding="15px 35px" font-weight="500">
+					SHOP NOW
+				</mj-button>
+			</mj-column>
+    </mj-section>
+    <mj-section padding="15px">
+      <mj-column vertical-align="middle" width="100%">
+        <mj-text padding="15px 0" font-size="24px" line-height="31px" font-weight="600">
+          Who Are We?
+        </mj-text>
+				<mj-text padding="0px 0px 15px" font-size="16px" color="#333" line-height="27px">
+					At Femrico, we’re fashion enthusiasts who want to help 
+					others enjoy the looks and protection of their mobile devices. 
+					Unlike the generic store, we’re not the last step of a long 
+					&amp; overpriced distribution chain. We’re lifelong partners 
+					with years of experience in the industry who want to give 
+					direct access to the best quality products that’s out 
+					there - along with unlimited access to our friendly customer 
+					support and tech resources.
+				</mj-text>
+      </mj-column>
+		</mj-section>
+    <mj-section padding="15px 15px 0">
+      <mj-column vertical-align="middle" width="100%">
+        <mj-text padding="0" font-size="24px" line-height="30px" font-weight="600">
+          Best Sellers
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="15px">
+      <mj-column padding="10px 10px 30px">
+        <mj-image padding="0 0 15px" src="https://femrico.com/wp-content/uploads/2020/07/mockup-59875577-3-768x768.jpg" href="https://femrico.com/iphone-pink-glitter-case/?utm_source=newsletter&utm_medium=email&utm_campaign=july-sale&utm_term=Image&utm_content=pink-glitter" />
+        <mj-text font-size="18px" line-height="27px" color="#777" padding="0 0 15px">
+          <a href="https://femrico.com/iphone-pink-glitter-case/?utm_source=newsletter&utm_medium=email&utm_campaign=july-sale&utm_term=iPhone%20Pink%20Glitter%20Case&utm_content=pink-glitter-title" class="link-nostyle">
+            iPhone Pink Glitter Case
+          </a>
+        </mj-text>
+        <mj-text font-size="24px" padding="0 0 10px" font-weight="600">
+          <a href="https://femrico.com/iphone-pink-glitter-case/?utm_source=newsletter&utm_medium=email&utm_campaign=july-sale&utm_term=16&utm_content=pink-glitter-price" class="link-nostyle">
+            $16
+          </a>
+        </mj-text>
+        <mj-text font-size="16px" color="#777" padding="0 0 20px">
+          <s>$19</s> &nbsp;· &nbsp;
+          <span style="color:red">FEATURED</span>
+        </mj-text>
+        <mj-button padding="0" align="left" font-size="14px" background-color="#DD6868" inner-padding="15px 35px" font-weight="500" href="https://femrico.com/iphone-pink-glitter-case/?utm_source=newsletter&utm_medium=email&utm_campaign=july-sale&utm_term=Shop%20Case%20Featured&utm_content=pink-glitter-button">SHOP NOW</mj-button>
+      </mj-column>
+      <mj-column padding="10px 10px 30px">
+        <mj-image padding="0 0 15px" src="https://femrico.com/wp-content/uploads/2020/07/mockup-59875577-2-768x768.jpg" href="https://femrico.com/iphone-golden-glitter-case/?utm_source=newsletter&utm_medium=email&utm_campaign=july-sale&utm_term=Image&utm_content=gold-glitter-image" />
+        <mj-text font-size="18px" line-height="27px" color="#777" padding="0 0 15px">
+          <a href="https://femrico.com/iphone-golden-glitter-case/?utm_source=newsletter&utm_medium=email&utm_campaign=july-sale&utm_term=iPhone%20Gold%20Glitter%20Case&utm_content=gold-glitter-title" class="link-nostyle">
+            iPhone Gold Glitter Case
+          </a>
+        </mj-text>
+        <mj-text font-size="24px" padding="0 0 10px" font-weight="600">
+          <a href="https://femrico.com/iphone-golden-glitter-case/?utm_source=newsletter&utm_medium=email&utm_campaign=july-sale&utm_term=16&utm_content=gold-glitter-price" class="link-nostyle">
+            $16
+          </a>
+        </mj-text>
+        <mj-text font-size="16px" color="#777" padding="0 0 20px">
+          <s>$19</s> &nbsp;· &nbsp;
+          <span style="color:red">FEATURED</span>
+        </mj-text>
+        <mj-button padding="0" align="left" font-size="14px" background-color="#DD6868" inner-padding="15px 35px" font-weight="500" href="https://femrico.com/iphone-golden-glitter-case/?utm_source=newsletter&utm_medium=email&utm_campaign=july-sale&utm_term=Shop%20Case%20Featured&utm_content=gold-glitter-button">SHOP NOW</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-social>
+          <mj-social-element href="https://www.facebook.com/thefemrico/" name="facebook" background-color="#333" icon-size="30px"></mj-social-element>
+          <mj-social-element href="https://www.pinterest.com/femrico/boards/" name="pinterest" background-color="#333" icon-size="30px"></mj-social-element>
+          <mj-social-element href="https://www.instagram.com/femrico/" name="instagram" background-color="#333" icon-size="30px"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center">
+          <a href="<%asm_group_unsubscribe_raw_url%>">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
